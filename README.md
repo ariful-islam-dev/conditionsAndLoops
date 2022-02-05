@@ -2,4 +2,4 @@
 
 **_Assignments_**
 
-- [x] Various type of condition
+- [x] Loops discusstion
